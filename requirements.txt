@@ -1,0 +1,3 @@
+# Editable Git install with no remote (Password-Manager==0.0.0)
+-e /Users/zachfacheris/Desktop/cyber-sec/github-projects/Password Manager/src
+pycryptodome==3.20.0
